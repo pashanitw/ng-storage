@@ -154,7 +154,7 @@ module.exports = function(grunt) {
         stripBanners: true
       },
       dist: {
-        src: ['<%= yo.src %>/<%= pkg.name %>.js'],
+        src: ['<%= yo.src %>/ng-storage.js','<%= yo.src %>/ng-local-storage.js'],
         dest: '<%= yo.dist %>/<%= pkg.name %>.js'
       }
     },
