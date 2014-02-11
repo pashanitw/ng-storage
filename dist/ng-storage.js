@@ -1,4 +1,14 @@
-/*global ngStorage,angular,localStorage,document*/
+/**
+ * ng-storage
+ * @version v0.0.1 - 2014-02-11
+ * @link https://github.com/pashanitw/ng-storage
+ * @author  <>
+ * @license MIT License, http://www.opensource.org/licenses/MIT
+ */
+/* include this dependency in your module */
+var ngStorage = angular.module('ngStorage', []);
+
+
 ngStorage.provider('localStorage', function () {
     'use strict';
     var _self = this;
