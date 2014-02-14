@@ -6,8 +6,8 @@
 
 Download the [production version][min] or the [development version][max].
 
-[min]: https://raw.github.com/pashanitw/jquery-ng-storage/master/dist/ng-storage.min.js
-[max]: https://raw.github.com/pashanitw/jquery-ng-storage/master/dist/ng-storage.js
+[min]: https://raw.github.com/pashanitw/ng-storage/master/dist/ng-storage.min.js
+[max]: https://raw.github.com/pashanitw/ng-storage/master/dist/ng-storage.js
 
 In your web page:
 
