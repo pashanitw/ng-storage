@@ -1,6 +1,6 @@
 /**
  * ng-storage
- * @version v0.0.1 - 2014-02-11
+ * @version v0.0.1 - 2014-02-13
  * @link https://github.com/pashanitw/ng-storage
  * @author  <>
  * @license MIT License, http://www.opensource.org/licenses/MIT

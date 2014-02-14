@@ -163,7 +163,7 @@ module.exports = function(grunt) {
         banner: '<%= meta.banner %>'
       },
       dist: {
-        src: '<%= concat.dist.dest %>',
+        src: ['<%= yo.src %>/ng-storage.js','<%= yo.src %>/ng-local-storage.js'],
         dest: '<%= yo.dist %>/<%= pkg.name %>.min.js'
       }
     }
