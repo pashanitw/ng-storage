@@ -1,4 +1,4 @@
-# ng-grid
+# ngStorage
 
 
 
@@ -6,19 +6,18 @@
 
 Download the [production version][min] or the [development version][max].
 
-[min]: https://raw.github.com/pashanitw/jquery-ng-grid/master/dist/angular-ng-grid.min.js
-[max]: https://raw.github.com/pashanitw/jquery-ng-grid/master/dist/angular-ng-grid.js
+[min]: https://raw.github.com/pashanitw/jquery-ng-storage/master/dist/ng-storage.min.js
+[max]: https://raw.github.com/pashanitw/jquery-ng-storage/master/dist/ng-storage.js
 
 In your web page:
 
 ```html
 <script src="angular.js"></script>
-<script src="dist/ng-grid.min.js"></script>
+<script src="dist/ng-storage.min.js"></script>
 ```
 
 ## Documentation
 _(Coming soon)_
 
 ## Examples
-_(Coming soon)_
-
+_
